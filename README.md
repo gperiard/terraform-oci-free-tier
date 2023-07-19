@@ -1,2 +1,2 @@
 # terraform-oci-free-tier
-Example Teraform project using the Oracle Cloud Free tier resources
+Example Terraform project using the Oracle Cloud Free tier resources
